@@ -1,0 +1,4 @@
+SELECT * FROM DimProduct
+
+SELECT ProductName, UnitPrice FROM DimProduct
+WHERE UnitPrice <=500
